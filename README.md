@@ -6,6 +6,7 @@
 ___
 
 The project focus on data analysis of Google Play Store dataset which is provide by Kaggle. Each app (row) has values for catergory, rating, size, and more.
+Presentation: https://datastudio.google.com/u/0/reporting/1yF0zGLQeVWLakmojZ_odn5eQkbOXG73Q/page/rbiw/edit
 
 ## Project Management
 
